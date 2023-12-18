@@ -1,2 +1,2 @@
 # Tin-Dog-project
-CSS project related to frontend website page
+CSS project related to frontend website page design
